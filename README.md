@@ -1,0 +1,4 @@
+# Laboratory-reservation-system
+设计&amp;实现的一整套实验室预约系统，Java Web项目。项目使用了Spring MVC、Spring framework、Hibernate和Spring JDBC、Bootstrap、ECharts等技术
+Laboratory-reservation-system
+该系统主要实现了教师根据教学的实际情况进行教学以外的实验室开放，发布以及管理学生预约的开放时间，学生查询实验室预约信息，预约开放实验室，系统自动审核学生的预约请求，并为教师生成图表分析实验室的实时使用情况，系统定时检验学生预定状态自动发送邮件通知。
